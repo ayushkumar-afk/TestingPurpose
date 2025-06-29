@@ -1,10 +1,16 @@
 package ProblematicCode;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
 
-        VisaCard visaCard = new VisaCard();
-        visaCard.onlineTransfer();
+        List<InternationalCreaditCard> internationalCreaditCards = new ArrayList<>();
+        for( InternationalCreaditCard creditCard : internationalCreaditCards){
+            creditCard.internationPayment();
+        }
+
 
     }
 }
