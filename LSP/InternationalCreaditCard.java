@@ -1,4 +1,4 @@
-package ProblematicCode;
+package LSP;
 
 public interface InternationalCreaditCard {
     void internationPayment();

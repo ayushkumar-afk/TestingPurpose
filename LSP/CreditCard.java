@@ -1,4 +1,4 @@
-package ProblematicCode;
+package LSP;
 
 public abstract class CreditCard {
     private String ccno;

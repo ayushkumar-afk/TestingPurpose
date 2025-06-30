@@ -1,6 +1,6 @@
-package ProblematicCode;
+package LSP;
 
-public class MasterCard extends CreditCard{
+public class Rupay extends CreditCard{
     @Override
     public void tapandpay() {
         System.out.println("Payed Though tap ");

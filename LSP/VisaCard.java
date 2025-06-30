@@ -1,4 +1,4 @@
-package ProblematicCode;
+package LSP;
 
 public class VisaCard extends CreditCard implements UpiRelatedCreditCard,InternationalCreaditCard{
 
