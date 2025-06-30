@@ -1,6 +1,6 @@
 package ISP.ProblamaticCode;
 
-public class Admin implements User {
+public class Admin extends User {
     @Override
     public void buyitem() {
 

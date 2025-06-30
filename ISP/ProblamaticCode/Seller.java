@@ -2,7 +2,7 @@ package ISP.ProblamaticCode;
 
 import ISP.BetterCOde.CrudOperttions;
 
-public class Seller implements User {
+public class Seller extends User {
 
 
     @Override
